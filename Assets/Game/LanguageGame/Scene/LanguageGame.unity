@@ -558,6 +558,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 0
   textDisplay: {fileID: 1991437134}
+  parent: {fileID: 401429772}
 --- !u!4 &178406216 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4616165200164398447, guid: 76f3439a0ae796e4b81bee3f91f888ee, type: 3}
@@ -980,6 +981,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 258275962}
   m_CullTransparentMesh: 1
+--- !u!4 &401429772 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5278684167267454861, guid: 88246f8e9c3765d49be8da34eca3c630, type: 3}
+  m_PrefabInstance: {fileID: 670559718131909908}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &402675202 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4616165200164398447, guid: 76f3439a0ae796e4b81bee3f91f888ee, type: 3}
@@ -1173,6 +1179,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 10
   textDisplay: {fileID: 1643968463}
+  parent: {fileID: 1943465700}
 --- !u!114 &482815540
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1312,6 +1319,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 2
   textDisplay: {fileID: 258275964}
+  parent: {fileID: 402675202}
 --- !u!114 &498622475
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2854,6 +2862,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 9
   textDisplay: {fileID: 1231831017}
+  parent: {fileID: 691985124}
 --- !u!114 &1144627355
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3481,6 +3490,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 11
   textDisplay: {fileID: 1982363329}
+  parent: {fileID: 178406216}
 --- !u!114 &1249941378
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3712,6 +3722,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 4
   textDisplay: {fileID: 729276771}
+  parent: {fileID: 1138521830}
 --- !u!114 &1293971220
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3851,6 +3862,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 6
   textDisplay: {fileID: 803199685}
+  parent: {fileID: 1720670037}
 --- !u!114 &1306301259
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4285,6 +4297,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 7
   textDisplay: {fileID: 1131601936}
+  parent: {fileID: 806871016}
 --- !u!114 &1399765584
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4424,6 +4437,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 8
   textDisplay: {fileID: 507403100}
+  parent: {fileID: 1778966605}
 --- !u!114 &1403188337
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5046,6 +5060,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 5
   textDisplay: {fileID: 1800816473}
+  parent: {fileID: 580417078}
 --- !u!114 &1582042722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5665,6 +5680,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 1
   textDisplay: {fileID: 1871142768}
+  parent: {fileID: 1582159795}
 --- !u!114 &1756623948
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6509,6 +6525,7 @@ MonoBehaviour:
   display: {fileID: 3807310295959509742}
   wordNumber: 3
   textDisplay: {fileID: 1591531812}
+  parent: {fileID: 1827551645}
 --- !u!114 &1891990070
 MonoBehaviour:
   m_ObjectHideFlags: 0
